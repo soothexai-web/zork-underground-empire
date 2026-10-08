@@ -24,3 +24,15 @@ test-results/
 *.log
 .DS_Store
 Thumbs.db
+
+*.pid
+
+.agents/
+
+.agentsweb/
+
+.omgithub-runtime/
+
+.opencode-ssh/
+
+.opencode-web/
